@@ -275,13 +275,18 @@ header .buttons i:last-child:hover {
     border-radius: 2px solid red;
 }
 footer {
-  background-color: #f0f0f0;
-  padding: 20px;
+  background-color: #f5f5f5;
+  padding: 10px;
   text-align: center;
 }
 
-.footer p {
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+p {
+  margin: 0;
   font-size: 14px;
-  color: #777;
-  margin: 10;
+  color: #888;
 }
