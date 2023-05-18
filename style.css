@@ -276,12 +276,12 @@ header .buttons i:last-child:hover {
 }
 footer {
   background-color: #f0f0f0;
-  padding: 200px;
+  padding: 20px;
   text-align: center;
 }
 
 .footer p {
   font-size: 14px;
   color: #777;
-  margin: 0;
+  margin: 10;
 }
