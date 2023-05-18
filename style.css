@@ -274,3 +274,14 @@ header .buttons i:last-child:hover {
     text-transform: capitalize;
     border-radius: 2px solid red;
 }
+footer {
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer p {
+  font-size: 14px;
+  color: #777;
+  margin: 0;
+}
