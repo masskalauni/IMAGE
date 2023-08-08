@@ -290,3 +290,19 @@ p {
   font-size: 14px;
   color: #888;
 }
+/* Apply styles to all iframes */
+iframe {
+  width: 560px;
+  height: 315px;
+  margin: 10px; /* Add margin for spacing between iframes */
+}
+
+/* Add a border and shadow effect */
+iframe {
+  border: 1px solid #ddd;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+
+
